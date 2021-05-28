@@ -1,0 +1,30 @@
+C:\Users\Pero\source\repos\DronV1\bin\Debug\DronV1.exe.config
+C:\Users\Pero\source\repos\DronV1\bin\Debug\DronV1.exe
+C:\Users\Pero\source\repos\DronV1\bin\Debug\DronV1.pdb
+C:\Users\Pero\source\repos\DronV1\obj\Debug\DronV1.csprojAssemblyReference.cache
+C:\Users\Pero\source\repos\DronV1\obj\Debug\DronV1.Form1.resources
+C:\Users\Pero\source\repos\DronV1\obj\Debug\DronV1.Properties.Resources.resources
+C:\Users\Pero\source\repos\DronV1\obj\Debug\DronV1.csproj.GenerateResource.cache
+C:\Users\Pero\source\repos\DronV1\obj\Debug\DronV1.csproj.CoreCompileInputs.cache
+C:\Users\Pero\source\repos\DronV1\obj\Debug\DronV1.exe
+C:\Users\Pero\source\repos\DronV1\obj\Debug\DronV1.pdb
+C:\Users\Pero\Desktop\DronV1 Mihailo Petrovic\bin\Debug\DronV1.exe.config
+C:\Users\Pero\Desktop\DronV1 Mihailo Petrovic\bin\Debug\DronV1.exe
+C:\Users\Pero\Desktop\DronV1 Mihailo Petrovic\bin\Debug\DronV1.pdb
+C:\Users\Pero\Desktop\DronV1 Mihailo Petrovic\obj\Debug\DronV1.csprojAssemblyReference.cache
+C:\Users\Pero\Desktop\DronV1 Mihailo Petrovic\obj\Debug\DronV1.Form1.resources
+C:\Users\Pero\Desktop\DronV1 Mihailo Petrovic\obj\Debug\DronV1.Properties.Resources.resources
+C:\Users\Pero\Desktop\DronV1 Mihailo Petrovic\obj\Debug\DronV1.csproj.GenerateResource.cache
+C:\Users\Pero\Desktop\DronV1 Mihailo Petrovic\obj\Debug\DronV1.csproj.CoreCompileInputs.cache
+C:\Users\Pero\Desktop\DronV1 Mihailo Petrovic\obj\Debug\DronV1.exe
+C:\Users\Pero\Desktop\DronV1 Mihailo Petrovic\obj\Debug\DronV1.pdb
+C:\Users\Pero\Desktop\nfak finale\bin\Debug\DronV1.exe.config
+C:\Users\Pero\Desktop\nfak finale\bin\Debug\DronV1.exe
+C:\Users\Pero\Desktop\nfak finale\bin\Debug\DronV1.pdb
+C:\Users\Pero\Desktop\nfak finale\obj\Debug\DronV1.csprojAssemblyReference.cache
+C:\Users\Pero\Desktop\nfak finale\obj\Debug\DronV1.Form1.resources
+C:\Users\Pero\Desktop\nfak finale\obj\Debug\DronV1.Properties.Resources.resources
+C:\Users\Pero\Desktop\nfak finale\obj\Debug\DronV1.csproj.GenerateResource.cache
+C:\Users\Pero\Desktop\nfak finale\obj\Debug\DronV1.csproj.CoreCompileInputs.cache
+C:\Users\Pero\Desktop\nfak finale\obj\Debug\DronV1.exe
+C:\Users\Pero\Desktop\nfak finale\obj\Debug\DronV1.pdb

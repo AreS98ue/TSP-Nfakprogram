@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DronV1", "DronV1.csproj", "{E7BB054E-1BD6-4AF6-AB24-A7F9D9E1B251}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7BB054E-1BD6-4AF6-AB24-A7F9D9E1B251}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7BB054E-1BD6-4AF6-AB24-A7F9D9E1B251}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7BB054E-1BD6-4AF6-AB24-A7F9D9E1B251}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7BB054E-1BD6-4AF6-AB24-A7F9D9E1B251}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F62EEB25-FEF0-4570-8D99-2CEF2404A899}
+	EndGlobalSection
+EndGlobal
